@@ -64,6 +64,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitheesh-2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=darcula&hide_border=false&order=2" height="170" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Nitheesh-2003&theme=dracula&column=-1&row=2&margin-w=10&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
 ###
-<img src="https://raw.githubusercontent.com/Nitheesh-2003/Nitheesh-2003/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/Nitheesh-2003/Nitheesh-2003/output/snake.svg" alt="Snake animation" style="border: 3px solid limegreen; border-radius: 8px;" />
+
 ###
