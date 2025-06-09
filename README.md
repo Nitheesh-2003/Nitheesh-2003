@@ -67,6 +67,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nitheesh-2003/Nitheesh-2003/output/snake.svg" alt="Snake animation" style="border: 3px solid limegreen; border-radius: 8px;" />
+<table>
+  <tr>
+    <td style="border: 3px solid limegreen; border-radius: 8px; padding: 5px;">
+      <img src="https://raw.githubusercontent.com/Nitheesh-2003/Nitheesh-2003/output/snake.svg" alt="Snake animation" />
+    </td>
+  </tr>
+</table>
 
 ###
